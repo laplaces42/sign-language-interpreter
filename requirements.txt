@@ -30,7 +30,7 @@ pygame==2.6.0
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
-requests==2.32.3
+requests==2.32.4
 scikit-learn==1.5.1
 scipy==1.14.0
 six==1.16.0
